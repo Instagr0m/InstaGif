@@ -225,5 +225,3 @@ if (msg.content === '+odie') {
 	msg.reply(exampleEmbed);
   }
 });
-
-client.login('ODQ1MDQxNjU4MjQ4ODIyODQ0.YKbMXw.HW6XWG9Bw_X7ueDmGStXXgjHwIM');
