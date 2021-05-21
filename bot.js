@@ -224,4 +224,4 @@ if (msg.content === '+odie') {
   }
 });
 
-client.login('ODQ1MDQxNjU4MjQ4ODIyODQ0.YKbMXw.QbyvzJNpmecGB3pPIpzQcflU4vc');
+client.login('ODQ1MDQxNjU4MjQ4ODIyODQ0.YKbMXw.HW6XWG9Bw_X7ueDmGStXXgjHwIM');
