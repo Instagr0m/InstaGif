@@ -1,0 +1,18 @@
+
+  
+{
+  "name": "InstaGif",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Bot.js",
+  "scripts": {
+    "start": "node Bot.js"
+  },
+  "author": "Instagr0m",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.1",
+    "node-fetch": "^2.6.1"
+  }
+}
